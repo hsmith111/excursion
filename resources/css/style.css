@@ -11,7 +11,7 @@ body {
     text-decoration: underline;
 }
 
-header {
+.headlines {
     top: 0;
     position: relative;
     width: 100%;
@@ -19,4 +19,22 @@ header {
     font-weight: normal;
     font-size: 50px;
     color: #fff;
+}
+
+.guide {
+    position: relative;
+    width: 100%;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+
+.recommends {
+    position: relative;
+    width: 100%;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 21px;
+    color: gray;
 }
